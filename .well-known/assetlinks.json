@@ -1,1 +1,14 @@
-[]
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "br.com.cadernodemovimentos.app",
+      "sha256_cert_fingerprints": [
+        "2B:CA:C7:9C:8B:D4:7B:4C:1F:19:7F:5D:2F:80:9D:80:AD:5C:AD:F6:52:D1:4F:35:74:DB:A5:73:E0:1B:9A:EF"
+      ]
+    }
+  }
+]
